@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplikasi 1</string>
+    <string name="reminder" />
+    <string name="login" />
+
+    <string-array name="daftar_alamat">
+        <item>Jember</item>
+        <item>Situbondo</item>
+        <item>Bondowoso</item>
+        <item>Banyuwangi</item>
+        <item>Lumajang</item>
+        <item>Probolinggo</item>
+        <item>Pasuruan</item>
+        <item>Sidoarjo</item>
+    </string-array>
+    <string-array name="daftar_umur">
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+</resources>
